@@ -2,9 +2,9 @@
 #let abstract = "2024-2 통사론"
 #let metadata = (
   title: "통사론",
-  semester: "2024-2 중간",
+  semester: "2024-2 기말",
   instructor: "박동우",
-  datetime: "2024. 10. 31.(목) 12:30~13:45",
+  datetime: "2024. 12. 19.(목) 12:30~13:45",
 )
 
 /*------------------ Document settings ------------------*/
